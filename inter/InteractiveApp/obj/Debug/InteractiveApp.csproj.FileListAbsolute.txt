@@ -1,0 +1,11 @@
+C:\Users\Stu\source\repos\InteractiveApp\InteractiveApp\obj\Debug\InteractiveApp.csproj.AssemblyReference.cache
+C:\Users\Stu\source\repos\InteractiveApp\InteractiveApp\obj\Debug\InteractiveApp.Form1.resources
+C:\Users\Stu\source\repos\InteractiveApp\InteractiveApp\obj\Debug\InteractiveApp.Properties.Resources.resources
+C:\Users\Stu\source\repos\InteractiveApp\InteractiveApp\obj\Debug\InteractiveApp.csproj.GenerateResource.cache
+C:\Users\Stu\source\repos\InteractiveApp\InteractiveApp\obj\Debug\InteractiveApp.csproj.CoreCompileInputs.cache
+C:\Users\Stu\source\repos\InteractiveApp\InteractiveApp\bin\Debug\InteractiveApp.exe.config
+C:\Users\Stu\source\repos\InteractiveApp\InteractiveApp\bin\Debug\InteractiveApp.exe
+C:\Users\Stu\source\repos\InteractiveApp\InteractiveApp\bin\Debug\InteractiveApp.pdb
+C:\Users\Stu\source\repos\InteractiveApp\InteractiveApp\obj\Debug\InteractiveApp.exe
+C:\Users\Stu\source\repos\InteractiveApp\InteractiveApp\obj\Debug\InteractiveApp.pdb
+C:\Users\Stu\source\repos\InteractiveApp\InteractiveApp\obj\Debug\InteractiveApp.exe.config
